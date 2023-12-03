@@ -2,8 +2,8 @@ import './globals.css'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Equalizer Landing Page',
-  description: 'We make your music sound extraordinary.',
+  title: 'Découvrez Galet',
+  description: 'Affichage dynamique sur écran e-ink',
 }
 
 export default function RootLayout({

@@ -17,10 +17,10 @@ export default function Home() {
           <div className='flex flex-col space-y-8 lg:w-2/3 lg:flex-row lg:space-y-0 lg:justify-between'>
             <img src='/logo.svg' alt='logo' className='w-36 h-8' />
             <p className='text-sm text-clr-black leading-7 max-w-sm'>
-              All rights reserved © Equalizer 2021 Have any problems? Contact
+              All rights reserved © Galet 2023 Have any problems? Contact
               us via social media or email us at{' '}
               <Link href='mailto:equalizer@example.com' className='font-bold'>
-                equalizer@example.com
+                contact@galet.com
               </Link>
             </p>
           </div>
