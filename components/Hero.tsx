@@ -1,6 +1,6 @@
 const Hero = () => {
   return (
-    <section id='hero' className='px-6 pt-10 md:pt-16 mb-48 md:px-10 md:mb-60'>
+    <section id='hero' className='px-6 pt-10 md:pt-16 mb-48 md:px-10'>
       <img src='/logo.svg' alt='' className='mb-16' />
       <h1 className='text-xl text-clr-black font-bold max-w-md md:text-3xl lg:text-4xl lg:max-w-3xl xl:max-w-4xl mb-5 md:mb-7 lg:mb-10'>
         La révolution du papier dans votre poche.
